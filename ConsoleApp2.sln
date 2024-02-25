@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{99488634-03D5-40E2-BFB1-753696839ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculateIdealBodyWeight", "TestCalculateIdealBodyWeight\TestCalculateIdealBodyWeight.csproj", "{C5FFFA27-2976-422A-AD2A-FA96FE75AECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99488634-03D5-40E2-BFB1-753696839ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99488634-03D5-40E2-BFB1-753696839ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99488634-03D5-40E2-BFB1-753696839ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99488634-03D5-40E2-BFB1-753696839ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5FFFA27-2976-422A-AD2A-FA96FE75AECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FFFA27-2976-422A-AD2A-FA96FE75AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FFFA27-2976-422A-AD2A-FA96FE75AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FFFA27-2976-422A-AD2A-FA96FE75AECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9051292-6511-4118-B7CB-5038F7DABC0C}
+	EndGlobalSection
+EndGlobal
